@@ -7,3 +7,18 @@ You've learned a lot about web development so far. I want you to take a moment t
 ---
 
 Your response goes here!
+
+#### What new skills have you learned?
+1. Html's tree structure
+2. Html tags including: html, body, head, p, s, sup, div, span and so on
+3. Html grammar, mainly how to use html
+
+#### What has been easy?
+1. Uderstanding html tree structure
+2. Writing html file
+
+### What has been difficult?
+There are currently no difficulties
+
+### How have you used the problem solving strategies from the first project to overcome challenges so far?
+Yes
